@@ -6,6 +6,7 @@ public class Terve {
 		System.out.println("Martti was here");
 		System.out.println("Varokaa niitä Martin koodeja");
 		System.out.println("Mika was here 2014");
+		System.out.println("Moi");
 	}
 
 }
