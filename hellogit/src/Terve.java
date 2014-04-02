@@ -12,6 +12,7 @@ public class Terve {
 
 	/**
 	 * created by otula12
+	 * 
 	 * @param viesti
 	 */
 	public static void terve(String viesti) {
@@ -22,5 +23,12 @@ public class Terve {
 		System.out.println("Anna teksti");
 		String teksti=lukija.nextLine();
 		return teksti;
+	}
+
+	public static int max(int one, int two) {
+		if (one > two)
+			return one;
+		else
+			return two;
 	}
 }
