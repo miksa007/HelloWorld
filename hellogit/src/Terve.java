@@ -5,9 +5,9 @@ public class Terve {
 		System.out.println("Terve gitHub");
 		System.out.println("Mika was here");
 		System.out.println("Martti was here");
-		System.out.println("Varokaa niit� Martin koodeja");
 		System.out.println("Mika was here 2014");
-		terve("Terve vaan metodista");
+		System.out.println("Moi");
+		System.out.println("Moi taas 2-4-2014");
 	}
 
 	/**
