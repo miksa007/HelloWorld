@@ -31,4 +31,10 @@ public class Terve {
 		else
 			return two;
 	}
+	public static int min(int one, int two) {
+		if (one < two)
+			return one;
+		else
+			return two;
+	}
 }
