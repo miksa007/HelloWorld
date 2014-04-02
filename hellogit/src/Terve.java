@@ -10,9 +10,17 @@ public class Terve {
 
 	/**
 	 * created by otula12
+	 * 
 	 * @param viesti
 	 */
 	public static void terve(String viesti) {
 		System.out.println(viesti);
+	}
+
+	public static int max(int one, int two) {
+		if (one > two)
+			return one;
+		else
+			return two;
 	}
 }
